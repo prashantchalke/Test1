@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Test To Commit File  
 Test To Commit File  123
 Test To Commit File  456
+=======
+Test To Commit File
+>>>>>>> 345dfe15f4b209a95317dc276fb0b40982a4df30
